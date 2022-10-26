@@ -1,0 +1,47 @@
+body {
+    background-color:#ffffff00;
+}
+
+
+nav li {
+ display: inline;
+
+}
+
+nav a{
+text-transform: uppercase;
+color: rgb(0, 0, 0);
+background-color: #91a3ee;
+}
+
+
+.texto-principal {
+    margin-right: 20%;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+h2 {
+    color: rgb(85, 152, 240);
+}
+p {
+    color: rgb(115, 10, 141);
+
+}
+#imagem-principal {
+    width: 10%;
+    margin-left: 80%;
+    border: 5px dotted rgb(238, 135, 124);
+    float: left;
+    position: absolute;
+}
+
+.itens {
+    color:  #1eaeb3;
+    text-decoration: underline;
+}
+.texto-principal {
+    margin-right: 20%;
+}
